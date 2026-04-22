@@ -8,3 +8,4 @@ func Run() error {
 // guard against empty input
 // clarify the control flow
 // drop an unused branch
+// clarify the control flow
